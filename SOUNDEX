@@ -1,0 +1,2 @@
+SELECT SOUNDEX(cust_name) as name_sound
+FROM Customers;
