@@ -1,2 +1,2 @@
-SELECT SOUNDEX(cust_name) as name_sound
+SELECT cust_contact as name, SOUNDEX(cust_contact) as name_sound
 FROM Customers;
