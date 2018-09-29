@@ -1,0 +1,3 @@
+SELECT comb08U, city08U, highway08U
+FROM Vehicles
+WHERE city08U BETWEEN 1 AND 50 AND highway08U BETWEEN 1 AND 50;
