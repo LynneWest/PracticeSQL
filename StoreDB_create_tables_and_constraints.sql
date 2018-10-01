@@ -1,3 +1,4 @@
+--Create tables for Store DB in MS SQL Server
 CREATE TABLE CUSTOMER (
 	CustomerID	Int	NOT NULL IDENTITY(1,1),
 	FirstName	Varchar(25)	NULL,
