@@ -1,3 +1,4 @@
+--Populate Store DB tables
 INSERT INTO CUSTOMER
 	(FirstName, LastName, Street, City, [State], ZipCode)
 	VALUES ('Cameron', 'Grimes', '22755 Grove Street', 'Atascadero', 'CA', '93422');
