@@ -1,3 +1,4 @@
+--Add rows to Store DB
 INSERT INTO CUSTOMER
 	(FirstName, LastName, Street, City, [State], ZipCode)
 	VALUES ('Maya', 'Jones', '755 Johnson Avenue', 'Paso Robles', 'CA', '93447');
