@@ -1,0 +1,37 @@
+[
+  {
+    "FirstName": "Cameron",
+    "LastName": "Grimes",
+    "Address": "22755 Grove Street, Atascadero, CA 93422"
+  },
+  {
+    "FirstName": "Ashley",
+    "LastName": "Rodriguez",
+    "Address": "655 Monterey Street, San Luis Obispo, CA 93405"
+  },
+  {
+    "FirstName": "Maya",
+    "LastName": "Jones",
+    "Address": "755 Johnson Avenue, Paso Robles, CA 93447"
+  },
+  {
+    "FirstName": "Annie",
+    "LastName": "Rodgers",
+    "Address": "1654 Vineyard Street, San Luis Obispo, CA 93401"
+  },
+  {
+    "FirstName": "Catherine",
+    "LastName": "Giumini",
+    "Address": "22670 Encina Avenue, Atascadero, CA 93422"
+  },
+  {
+    "FirstName": "Issac",
+    "LastName": "Brock",
+    "Address": "5475 Wilson Court, San Luis Obispo, CA 93401"
+  },
+  {
+    "FirstName": "Carter",
+    "LastName": "Henderson",
+    "Address": "1355 Phillips Lane, Santa Maria, CA 93543"
+  }
+]
