@@ -1,0 +1,5 @@
+--OUTER JOIN on ITEM and ORDER_LINE_ITEM tables in Store DB
+SELECT		OrderID, ITEM.ItemNumber, [Description]
+FROM		ITEM LEFT OUTER JOIN ORDER_LINE_ITEM
+	ON		ITEM.ItemNumber = ORDER_LINE_ITEM.ItemNumber
+ORDER BY	OrderID, ORDER_LINE_ITEM.ItemNumber;
