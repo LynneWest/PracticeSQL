@@ -1,4 +1,4 @@
---Create tables for Store DB in MS SQL Server
+--Create tables with constraints for Store DB
 CREATE TABLE CUSTOMER (
 	CustomerID	Int		NOT NULL IDENTITY(1,1),
 	FirstName	Varchar(25)	NULL,
