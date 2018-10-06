@@ -28,32 +28,32 @@ INSERT INTO CUSTOMER
 	VALUES ('Carter', 'Henderson', '1355 Phillips Lane', 'Santa Maria', 'CA', '93543');
 
 INSERT INTO [ORDER]
-	(CustomerID, OrderDate, ShipDate)
-	VALUES ('1', '2018-06-20', '2018-06-25');
+	(CustomerID, OrderDate)
+	VALUES ('1', '2018-06-20');
 
 INSERT INTO [ORDER]
-	(CustomerID, OrderDate, ShipDate)
-	VALUES ('2', '2018-06-27', '2018-07-01');
+	(CustomerID, OrderDate)
+	VALUES ('2', '2018-06-27');
 
 INSERT INTO [ORDER]
-	(CustomerID, OrderDate, ShipDate)
-	VALUES ('3', '2018-04-21', '2018-04-25');
+	(CustomerID, OrderDate)
+	VALUES ('3', '2018-04-21');
 
 INSERT INTO [ORDER]
-	(CustomerID, OrderDate, ShipDate)
-	VALUES ('4', '2018-03-23', '2018-03-27');
+	(CustomerID, OrderDate)
+	VALUES ('4', '2018-03-23');
 
 INSERT INTO [ORDER]
-	(CustomerID, OrderDate, ShipDate)
-	VALUES ('5', '2018-05-02', '2018-05-05');
+	(CustomerID, OrderDate)
+	VALUES ('5', '2018-05-02');
 
 INSERT INTO [ORDER]
-	(CustomerID, OrderDate, ShipDate)
-	VALUES ('6', '2018-01-16', '2018-01-17');
+	(CustomerID, OrderDate)
+	VALUES ('6', '2018-01-16');
 
 INSERT INTO [ORDER]
-	(CustomerID, OrderDate, ShipDate)
-	VALUES ('7', '2018-07-02', '2018-07-06');
+	(CustomerID, OrderDate)
+	VALUES ('7', '2018-07-02');
 
 INSERT INTO ITEM
 	(Description, UnitCost)
