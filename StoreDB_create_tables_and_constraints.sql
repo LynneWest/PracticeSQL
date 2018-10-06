@@ -13,8 +13,7 @@ CREATE TABLE CUSTOMER (
 CREATE TABLE [ORDER] (
 	OrderID		Int		NOT NULL IDENTITY(1000,1),
 	CustomerID	Int		NOT NULL,
-	OrderDate	Date		NULL,
-	ShipDate	Date		NULL,
+	OrderDate	Date		NULL,	
 	OrderTotal	Numeric(8,2)	NULL,
 	CONSTRAINT  OrderPK	PRIMARY KEY(OrderID),
 	CONSTRAINT  CustomerFK	FOREIGN KEY(CustomerID)
